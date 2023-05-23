@@ -7,7 +7,7 @@ import { zodResolver } from '@hookform/resolvers/zod'
 import { TransactionsContext } from '../../../../contexts/TransactionContext'
 import { useContextSelector } from 'use-context-selector'
 
-/*
+/* MEMO
  *Por que um componente renderiza?
  * - Hooks changed (mudou estado, contexto, reducer)
  * - Props changed (mudou propriedades)
