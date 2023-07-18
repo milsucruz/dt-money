@@ -4,7 +4,7 @@
 > ## Sobre 📖
 > 
 > ### DT Money 💸
-> O DT Money é uma aplicação front-end com foco em consumo de API e performance com React, buscando entender como funcionam os algoritmos internos da biblioteca e todo fluxo de rederização de componentes.
+> O DT Money é uma aplicação front-end com foco em consumo de API e performance com React, buscando entender como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
 >
 > ## Tecnologias utilizadas 💻
 > 
